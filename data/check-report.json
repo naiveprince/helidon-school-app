@@ -1,0 +1,992 @@
+[
+  {
+    "schoolName": "かえつ有明中学校",
+    "url": "https://www.ariake.kaetsu.ac.jp/",
+    "ok": true,
+    "statusCode": 200,
+    "title": "かえつ有明中・高等学校",
+    "errorType": null,
+    "errorMessage": null
+  },
+  {
+    "schoolName": "かえつ有明中学校",
+    "url": "https://www.ariake.kaetsu.ac.jp/",
+    "ok": true,
+    "statusCode": 200,
+    "title": "かえつ有明中・高等学校",
+    "errorType": null,
+    "errorMessage": null
+  },
+  {
+    "schoolName": "カリタス女子中学校",
+    "url": "https://www.caritas.ed.jp/",
+    "ok": true,
+    "statusCode": 200,
+    "title": "カリタス女子中学高等学校 - 普遍的な愛をもって 人に尽くす -",
+    "errorType": null,
+    "errorMessage": null
+  },
+  {
+    "schoolName": "サレジアン国際学園世田谷中学校",
+    "url": "https://salesian-setagaya.ed.jp/recruitments/",
+    "ok": true,
+    "statusCode": 200,
+    "title": "募集要項 | サレジアン国際学園世田谷中学高等学校",
+    "errorType": null,
+    "errorMessage": null
+  },
+  {
+    "schoolName": "サレジアン国際学園中学校",
+    "url": "https://www.salesian.international.seibi.ac.jp/",
+    "ok": true,
+    "statusCode": 200,
+    "title": "サレジアン国際学園中学校高等学校（東京都北区）",
+    "errorType": null,
+    "errorMessage": null
+  },
+  {
+    "schoolName": "ドルトン東京学園中等部",
+    "url": "https://www.daltontokyo.ed.jp/",
+    "ok": true,
+    "statusCode": 200,
+    "title": "ドルトン東京学園 中等部・高等部",
+    "errorType": null,
+    "errorMessage": null
+  },
+  {
+    "schoolName": "三田国際科学学園中学校",
+    "url": "https://www.mita-is.ed.jp/",
+    "ok": true,
+    "statusCode": 200,
+    "title": "三田国際科学学園中学校・高等学校｜MITA International School of Science",
+    "errorType": null,
+    "errorMessage": null
+  },
+  {
+    "schoolName": "三田国際科学学園中学校",
+    "url": "https://www.mita-is.ed.jp/",
+    "ok": true,
+    "statusCode": 200,
+    "title": "三田国際科学学園中学校・高等学校｜MITA International School of Science",
+    "errorType": null,
+    "errorMessage": null
+  },
+  {
+    "schoolName": "三輪田学園中学校",
+    "url": "https://www.miwada.ac.jp/",
+    "ok": false,
+    "statusCode": null,
+    "title": null,
+    "errorType": "SSL_ERROR",
+    "errorMessage": "HTTPSConnectionPool(host='www.miwada.ac.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))"
+  },
+  {
+    "schoolName": "佼成学園女子中学校",
+    "url": "https://www.girls.kosei.ac.jp/junireturneesoutline",
+    "ok": true,
+    "statusCode": 200,
+    "title": "中学帰国生入試 – 佼成学園女子中学高等学校",
+    "errorType": null,
+    "errorMessage": null
+  },
+  {
+    "schoolName": "公文国際学園中等部",
+    "url": "https://kumon.ac.jp/k-gakuen/kokusai/nyuuShiShuTsuGan.html",
+    "ok": true,
+    "statusCode": 200,
+    "title": "入試出願について | 公文国際学園",
+    "errorType": null,
+    "errorMessage": null
+  },
+  {
+    "schoolName": "共立女子中学校",
+    "url": "https://www.kyoritsu-wu.ac.jp/chukou/admission/application/returnee/",
+    "ok": true,
+    "statusCode": 200,
+    "title": "海外帰国生入試 | 共立女子中学高等学校",
+    "errorType": null,
+    "errorMessage": null
+  },
+  {
+    "schoolName": "千代田中学校",
+    "url": "https://chiyoda.ed.jp/",
+    "ok": true,
+    "statusCode": 200,
+    "title": "千代田中学校・高等学校",
+    "errorType": null,
+    "errorMessage": null
+  },
+  {
+    "schoolName": "千代田中学校",
+    "url": "https://chiyoda.ed.jp/",
+    "ok": true,
+    "statusCode": 200,
+    "title": "千代田中学校・高等学校",
+    "errorType": null,
+    "errorMessage": null
+  },
+  {
+    "schoolName": "同志社国際中学校",
+    "url": "https://www.intnl.doshisha.ac.jp/admission/downloads.html",
+    "ok": true,
+    "statusCode": 200,
+    "title": "入学願書・海外在住証明書・募集要項ダウンロード | 入試案内 | 同志社国際中学校・高等学校",
+    "errorType": null,
+    "errorMessage": null
+  },
+  {
+    "schoolName": "品川女子学院",
+    "url": "https://www.shinagawajoshigakuin.jp/examination/%E4%B8%AD%E7%AD%89%E9%83%A8%E5%85%A5%E8%A9%A6%EF%BD%A5%E5%B8%B0%E5%9B%BD%E7%94%9F/2026kikoku/",
+    "ok": true,
+    "statusCode": 200,
+    "title": "帰国生入試 | 中等部入試･帰国生 | 入学のこと | 品川女子学院",
+    "errorType": null,
+    "errorMessage": null
+  },
+  {
+    "schoolName": "國學院大學久我山中学校",
+    "url": "https://www.kugayama-h.ed.jp/nyushi/jhs_nyushi/juken/",
+    "ok": true,
+    "statusCode": 200,
+    "title": "中学校入試要項 | 國學院大學久我山中学高等学校",
+    "errorType": null,
+    "errorMessage": null
+  },
+  {
+    "schoolName": "埼玉栄中学校",
+    "url": "https://www.saitamasakae-h.ed.jp/junior/j-examee/j-requirements/",
+    "ok": true,
+    "statusCode": 200,
+    "title": "募集要項 - 埼玉栄中学・高等学校",
+    "errorType": null,
+    "errorMessage": null
+  },
+  {
+    "schoolName": "大妻中学校",
+    "url": "https://www.otsuma.ed.jp/ad-returnee",
+    "ok": true,
+    "statusCode": 200,
+    "title": "【入試要項】海外帰国生 | 大妻中学高等学校",
+    "errorType": null,
+    "errorMessage": null
+  },
+  {
+    "schoolName": "大妻中野中学校",
+    "url": "https://www.otsumanakano.ac.jp/admission/guidelines/",
+    "ok": true,
+    "statusCode": 200,
+    "title": "募集要項 | 【公式】大妻中野中学校・高等学校",
+    "errorType": null,
+    "errorMessage": null
+  },
+  {
+    "schoolName": "大妻中野中学校",
+    "url": "https://www.otsumanakano.ac.jp/admission/guidelines/",
+    "ok": true,
+    "statusCode": 200,
+    "title": "募集要項 | 【公式】大妻中野中学校・高等学校",
+    "errorType": null,
+    "errorMessage": null
+  },
+  {
+    "schoolName": "大宮国際中等教育学校",
+    "url": "https://www.city.saitama.lg.jp/006/015/035/002/p125223_d/fil/ohmiya_R8youkou.pdf",
+    "ok": true,
+    "statusCode": 200,
+    "title": null,
+    "errorType": null,
+    "errorMessage": null
+  },
+  {
+    "schoolName": "学習院中等科",
+    "url": "https://www.gakushuin.ac.jp/bjh/admission/outline/index.html",
+    "ok": true,
+    "statusCode": 200,
+    "title": "募集要項｜学習院中等科",
+    "errorType": null,
+    "errorMessage": null
+  },
+  {
+    "schoolName": "宝仙学園中学校 理数インター",
+    "url": "https://www.hosen.ed.jp/risu-inter/returnee/",
+    "ok": true,
+    "statusCode": 200,
+    "title": "帰国生情報（中高） | 宝仙学園中学校・高等学校",
+    "errorType": null,
+    "errorMessage": null
+  },
+  {
+    "schoolName": "実践女子学園中学校",
+    "url": "https://hs.jissen.ac.jp/admission/application/index.html",
+    "ok": true,
+    "statusCode": 200,
+    "title": "募集要項 | 実践女子学園 中学校高等学校",
+    "errorType": null,
+    "errorMessage": null
+  },
+  {
+    "schoolName": "富士見丘中学校",
+    "url": "https://www.fujimigaoka.ac.jp/exam/returnees/returnees-application/",
+    "ok": true,
+    "statusCode": 200,
+    "title": "帰国生募集要項 | 帰国生・海外生の方 | 入試情報 | 富士見丘学園",
+    "errorType": null,
+    "errorMessage": null
+  },
+  {
+    "schoolName": "山手学院中学校",
+    "url": "https://www.yamate-gakuin.ac.jp/shared/pdf/bosyuu_k.pdf",
+    "ok": true,
+    "statusCode": 200,
+    "title": null,
+    "errorType": null,
+    "errorMessage": null
+  },
+  {
+    "schoolName": "山脇学園中学校",
+    "url": "https://www.yamawaki.ed.jp/exam/guideline/",
+    "ok": true,
+    "statusCode": 200,
+    "title": "募集要項 | 入試情報 | 山脇学園中学校・高等学校",
+    "errorType": null,
+    "errorMessage": null
+  },
+  {
+    "schoolName": "工学院大学附属中学校",
+    "url": "https://www.js.kogakuin.ac.jp/news/2025/090201.html",
+    "ok": true,
+    "statusCode": 200,
+    "title": "「2026年度 生徒募集要項」を公開いたしました | 工学院大学附属中学校・高等学校",
+    "errorType": null,
+    "errorMessage": null
+  },
+  {
+    "schoolName": "市川中学校",
+    "url": "https://www.ichigaku.ac.jp/wp-content/uploads/2025/09/2026%E4%B8%AD%E5%AD%A6%E5%8B%9F%E9%9B%86%E8%A6%81%E9%A0%85.pdf",
+    "ok": true,
+    "statusCode": 200,
+    "title": null,
+    "errorType": null,
+    "errorMessage": null
+  },
+  {
+    "schoolName": "帝京中学校",
+    "url": null,
+    "ok": false,
+    "statusCode": null,
+    "title": null,
+    "errorType": "MISSING_URL",
+    "errorMessage": "infoLink is null or empty"
+  },
+  {
+    "schoolName": "広尾学園中学校",
+    "url": "https://www.hiroogakuen.ed.jp/junior/jik_boshuyoko.html",
+    "ok": true,
+    "statusCode": 200,
+    "title": "帰国生入試　募集要項｜中学受験｜広尾学園　中学校　高等学校",
+    "errorType": null,
+    "errorMessage": null
+  },
+  {
+    "schoolName": "広尾学園中学校",
+    "url": "https://www.hiroogakuen.ed.jp/junior/j_boshuyoko.html",
+    "ok": true,
+    "statusCode": 200,
+    "title": "中学校募集要項｜中学受験｜広尾学園　中学校　高等学校",
+    "errorType": null,
+    "errorMessage": null
+  },
+  {
+    "schoolName": "広尾学園小石川中学校",
+    "url": "https://hiroo-koishikawa.ed.jp/exam/junior-nyushi",
+    "ok": true,
+    "statusCode": 200,
+    "title": "中学校募集要項 | 広尾学園小石川 中学校・高等学校",
+    "errorType": null,
+    "errorMessage": null
+  },
+  {
+    "schoolName": "広尾学園小石川中学校",
+    "url": "https://hiroo-koishikawa.ed.jp/exam/junior-nyushi",
+    "ok": true,
+    "statusCode": 200,
+    "title": "中学校募集要項 | 広尾学園小石川 中学校・高等学校",
+    "errorType": null,
+    "errorMessage": null
+  },
+  {
+    "schoolName": "慶應義塾湘南藤沢中等部",
+    "url": "https://www.sfc-js.keio.ac.jp/exam/ir/exinfo.html",
+    "ok": true,
+    "statusCode": 200,
+    "title": "慶應義塾湘南藤沢中等部・高等部公式サイト｜入試情報｜中等部入試｜中等部入学試験情報",
+    "errorType": null,
+    "errorMessage": null
+  },
+  {
+    "schoolName": "成蹊中学校",
+    "url": "https://www.seikei.ac.jp/jsh/entranceguide/application.html",
+    "ok": true,
+    "statusCode": 200,
+    "title": "募集要項｜入学案内｜成蹊中学・高等学校",
+    "errorType": null,
+    "errorMessage": null
+  },
+  {
+    "schoolName": "攻玉社中学校",
+    "url": "https://kogyokusha.ed.jp/wp-content/themes/kougyokusya2024/images/introduction/download/kogyokusha_kokusai26.pdf",
+    "ok": true,
+    "statusCode": 200,
+    "title": null,
+    "errorType": null,
+    "errorMessage": null
+  },
+  {
+    "schoolName": "文化学園大学杉並中学校",
+    "url": "https://bunsugi.jp/admission/kikokusei/",
+    "ok": true,
+    "statusCode": 200,
+    "title": "帰国生入試 | 文化学園大学杉並中学・高等学校",
+    "errorType": null,
+    "errorMessage": null
+  },
+  {
+    "schoolName": "文化学園大学杉並中学校",
+    "url": "https://bunsugi.jp/admission/exam-junior/",
+    "ok": true,
+    "statusCode": 200,
+    "title": "中学校入試 | 文化学園大学杉並中学・高等学校",
+    "errorType": null,
+    "errorMessage": null
+  },
+  {
+    "schoolName": "日本大学中学校",
+    "url": "https://www.yokohama.hs.nihon-u.ac.jp/junior/admission/",
+    "ok": true,
+    "statusCode": 200,
+    "title": "入試情報｜中学校受験生｜日本大学高等学校・中学校",
+    "errorType": null,
+    "errorMessage": null
+  },
+  {
+    "schoolName": "早稲田佐賀中学校",
+    "url": null,
+    "ok": false,
+    "statusCode": null,
+    "title": null,
+    "errorType": "MISSING_URL",
+    "errorMessage": "infoLink is null or empty"
+  },
+  {
+    "schoolName": "明星 Institution 中等教育部",
+    "url": null,
+    "ok": false,
+    "statusCode": null,
+    "title": null,
+    "errorType": "MISSING_URL",
+    "errorMessage": "infoLink is null or empty"
+  },
+  {
+    "schoolName": "昭和女子大学附属中学校",
+    "url": "https://jhs.swu.ac.jp/admission/summary/",
+    "ok": true,
+    "statusCode": 200,
+    "title": "募集要項｜昭和女子大学附属昭和中学校・高等学校",
+    "errorType": null,
+    "errorMessage": null
+  },
+  {
+    "schoolName": "昭和女子大学附属中学校",
+    "url": "https://jhs.swu.ac.jp/admission/summary/",
+    "ok": true,
+    "statusCode": 200,
+    "title": "募集要項｜昭和女子大学附属昭和中学校・高等学校",
+    "errorType": null,
+    "errorMessage": null
+  },
+  {
+    "schoolName": "昭和学院中学校",
+    "url": "https://showa-gkn.ed.jp/js/senior/admission/exam-infomation/",
+    "ok": true,
+    "statusCode": 200,
+    "title": "入学試験 | 昭和学院中学校・高等学校",
+    "errorType": null,
+    "errorMessage": null
+  },
+  {
+    "schoolName": "昭和学院秀英中学校",
+    "url": "https://www.showa-shuei.ed.jp/cms/wp-content/themes/showa-shuei/assets/pdf/2026yokojr.pdf",
+    "ok": true,
+    "statusCode": 200,
+    "title": null,
+    "errorType": null,
+    "errorMessage": null
+  },
+  {
+    "schoolName": "暁星中学校",
+    "url": "https://www.gyosei-h.ed.jp/junior/outline_returnee/",
+    "ok": true,
+    "statusCode": 200,
+    "title": "入試情報｜暁星中学校・高等学校",
+    "errorType": null,
+    "errorMessage": null
+  },
+  {
+    "schoolName": "東京大学教育学部附属中等教育学校",
+    "url": null,
+    "ok": false,
+    "statusCode": null,
+    "title": null,
+    "errorType": "MISSING_URL",
+    "errorMessage": "infoLink is null or empty"
+  },
+  {
+    "schoolName": "東京女学館中学校",
+    "url": "https://tjk.jp/mh/examinee/returnee/",
+    "ok": true,
+    "statusCode": 200,
+    "title": "帰国生入試・編入学試験 - 東京女学館中学校・高等学校",
+    "errorType": null,
+    "errorMessage": null
+  },
+  {
+    "schoolName": "東京女学館中学校",
+    "url": "https://tjk.jp/mh/examinee/returnee/",
+    "ok": true,
+    "statusCode": 200,
+    "title": "帰国生入試・編入学試験 - 東京女学館中学校・高等学校",
+    "errorType": null,
+    "errorMessage": null
+  },
+  {
+    "schoolName": "東京学芸大学附属国際中等教育学校",
+    "url": "https://www.iss.oizumi.u-gakugei.ac.jp/2026%E5%B9%B4%E5%BA%A64%E6%9C%88%E5%85%A5%E5%AD%A6%E3%83%BB%E7%B7%A8%E5%85%A5%E5%AD%A6%E5%8B%9F%E9%9B%86%E8%A6%81%E9%A0%85/",
+    "ok": true,
+    "statusCode": 200,
+    "title": "2026年度4月入学・編入学募集要項 | 東京学芸大学附属国際中等教育学校",
+    "errorType": null,
+    "errorMessage": null
+  },
+  {
+    "schoolName": "東京都市大学付属中学校",
+    "url": "https://www.tcu-jsh.ed.jp/application/youkou2026.pdf",
+    "ok": false,
+    "statusCode": 404,
+    "title": "404 Not Found",
+    "errorType": null,
+    "errorMessage": null
+  },
+  {
+    "schoolName": "東京都市大学付属中学校",
+    "url": "https://www.tcu-jsh.ed.jp/application/youkou2026.pdf",
+    "ok": false,
+    "statusCode": 404,
+    "title": "404 Not Found",
+    "errorType": null,
+    "errorMessage": null
+  },
+  {
+    "schoolName": "東京都市大学等々力中学校",
+    "url": null,
+    "ok": false,
+    "statusCode": null,
+    "title": null,
+    "errorType": "MISSING_URL",
+    "errorMessage": "infoLink is null or empty"
+  },
+  {
+    "schoolName": "東京都立白鷗高等学校附属中学校",
+    "url": "https://www.metro.ed.jp/hakuo-h/news/news-03/index.html",
+    "ok": true,
+    "statusCode": 200,
+    "title": "受検生の方 ｜ 都立白鷗高等学校・附属中学校 | 東京都立学校",
+    "errorType": null,
+    "errorMessage": null
+  },
+  {
+    "schoolName": "東京都立立川国際中等教育学校",
+    "url": "https://www.metro.ed.jp/tachikawa-s/guide/guidance_foreigner.html",
+    "ok": true,
+    "statusCode": 200,
+    "title": "適性検査（帰国在京枠） ｜ 東京都立立川国際中等教育学校 | 東京都立学校",
+    "errorType": null,
+    "errorMessage": null
+  },
+  {
+    "schoolName": "東邦大学付属東邦中学校",
+    "url": "https://www.tohojh.toho-u.ac.jp/exam/020502.html",
+    "ok": true,
+    "statusCode": 200,
+    "title": "生徒募集要項 | 入試情報 | 東邦大学付属東邦中学校高等学校",
+    "errorType": null,
+    "errorMessage": null
+  },
+  {
+    "schoolName": "栄東中学校",
+    "url": null,
+    "ok": false,
+    "statusCode": null,
+    "title": null,
+    "errorType": "MISSING_URL",
+    "errorMessage": "infoLink is null or empty"
+  },
+  {
+    "schoolName": "桐光学園中学校",
+    "url": "https://www.jolnet.com/entrance/13102/",
+    "ok": true,
+    "statusCode": 200,
+    "title": "2026年度中学入試要項　桐光学園中学校 | 海外・帰国子女のための受験・教育情報サイト　JOBA On Line (JOL)",
+    "errorType": null,
+    "errorMessage": null
+  },
+  {
+    "schoolName": "桐光学園中学校",
+    "url": "https://www.toko.ed.jp/high/exam/2026youkou_j.pdf",
+    "ok": false,
+    "statusCode": null,
+    "title": null,
+    "errorType": "SSL_ERROR",
+    "errorMessage": "HTTPSConnectionPool(host='www.toko.ed.jp', port=443): Max retries exceeded with url: /high/exam/2026youkou_j.pdf (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] ssl/tls alert handshake failure (_ssl.c:1006)')))"
+  },
+  {
+    "schoolName": "桐蔭学園中等教育学校",
+    "url": "https://toin.ac.jp/timeline/gakuen/39115/",
+    "ok": true,
+    "statusCode": 200,
+    "title": "» 【重要】2026年度募集以降の中等帰国生入試の廃止について | 桐蔭タイムライン",
+    "errorType": null,
+    "errorMessage": null
+  },
+  {
+    "schoolName": "横浜雙葉中学校",
+    "url": "https://www.yokohamafutaba.ed.jp/highsch/prospectives/2025/12820/",
+    "ok": true,
+    "statusCode": 200,
+    "title": "帰国生入試　出願の受付を開始",
+    "errorType": null,
+    "errorMessage": null
+  },
+  {
+    "schoolName": "江戸川女子中学校",
+    "url": null,
+    "ok": false,
+    "statusCode": null,
+    "title": null,
+    "errorType": "MISSING_URL",
+    "errorMessage": "infoLink is null or empty"
+  },
+  {
+    "schoolName": "洗足学園中学校",
+    "url": "https://www.senzoku-gakuen.ed.jp/admission/information_3.html",
+    "ok": true,
+    "statusCode": 200,
+    "title": "募集要項",
+    "errorType": null,
+    "errorMessage": null
+  },
+  {
+    "schoolName": "浦和実業学園中学校",
+    "url": null,
+    "ok": false,
+    "statusCode": null,
+    "title": null,
+    "errorType": "MISSING_URL",
+    "errorMessage": "infoLink is null or empty"
+  },
+  {
+    "schoolName": "海城中学校",
+    "url": "https://www.kaijo.ed.jp/admission/from-abroad",
+    "ok": true,
+    "statusCode": 200,
+    "title": "帰国生入試 – 海城中学高等学校",
+    "errorType": null,
+    "errorMessage": null
+  },
+  {
+    "schoolName": "清泉女学院中学校",
+    "url": "https://www.seisen-h.ed.jp/article/topics/exam/15150/",
+    "ok": true,
+    "statusCode": 200,
+    "title": "2026年度 中学入試要項 - 清泉女学院中学高等学校",
+    "errorType": null,
+    "errorMessage": null
+  },
+  {
+    "schoolName": "渋谷教育学園幕張中学校",
+    "url": "https://www.shibumaku.jp/admissions/youkou-2-2/junior/",
+    "ok": true,
+    "statusCode": 200,
+    "title": "2026年度中学校入試要項 – 渋谷教育学園幕張中学校・高等学校",
+    "errorType": null,
+    "errorMessage": null
+  },
+  {
+    "schoolName": "渋谷教育学園渋谷中学校",
+    "url": "https://www.shibushibu.jp/admission/detail/returnee_exam.html",
+    "ok": true,
+    "statusCode": 200,
+    "title": "帰国生（1月27日）入学試験 – 渋谷教育学園渋谷中学高等学校",
+    "errorType": null,
+    "errorMessage": null
+  },
+  {
+    "schoolName": "湘南白百合学園中学校",
+    "url": "https://chukou.shonan-shirayuri.ac.jp/exam",
+    "ok": true,
+    "statusCode": 200,
+    "title": "募集要項 | 湘南白百合学園中学・高等学校",
+    "errorType": null,
+    "errorMessage": null
+  },
+  {
+    "schoolName": "玉川学園中学部",
+    "url": "https://www.tamagawa.jp/academy/lower_upper_d/pdf/2026/web_lower-pdf-05.pdf",
+    "ok": true,
+    "statusCode": 200,
+    "title": null,
+    "errorType": null,
+    "errorMessage": null
+  },
+  {
+    "schoolName": "玉川学園中学部",
+    "url": "https://www.tamagawa.jp/academy/ib/ib_admission/kikokusei.html",
+    "ok": true,
+    "statusCode": 200,
+    "title": "帰国生入試｜国際バカロレア（IB）クラス｜玉川学園【幼小中高】",
+    "errorType": null,
+    "errorMessage": null
+  },
+  {
+    "schoolName": "田園調布学園中等部",
+    "url": "https://www.chofu.ed.jp/returnee/guide/",
+    "ok": true,
+    "statusCode": 200,
+    "title": "帰国生入試関連情報・Q&A | 帰国生入試をお考えの方へ | 田園調布学園中等部・高等部",
+    "errorType": null,
+    "errorMessage": null
+  },
+  {
+    "schoolName": "白百合学園中学校",
+    "url": "https://shirayuri.ed.jp/material/pdf/%E5%85%A5%E8%A9%A6%E5%A4%89%E6%9B%B4%E3%80%80HP%E5%91%8A%E7%9F%A5%E5%86%85%E5%AE%B9.pdf",
+    "ok": true,
+    "statusCode": 200,
+    "title": null,
+    "errorType": null,
+    "errorMessage": null
+  },
+  {
+    "schoolName": "目白研心中学校",
+    "url": "https://mk.mejiro.ac.jp/exam/returnee/",
+    "ok": true,
+    "statusCode": 200,
+    "title": "帰国生入試 - 目白研心中学校・高等学校",
+    "errorType": null,
+    "errorMessage": null
+  },
+  {
+    "schoolName": "神奈川大学附属中学校",
+    "url": "https://www.fhs.kanagawa-u.ac.jp/guide/returnee.html",
+    "ok": true,
+    "statusCode": 200,
+    "title": "帰国生入試について | 入学案内 | 神奈川大学附属中・高等学校",
+    "errorType": null,
+    "errorMessage": null
+  },
+  {
+    "schoolName": "立命館宇治中学校",
+    "url": null,
+    "ok": false,
+    "statusCode": null,
+    "title": null,
+    "errorType": "MISSING_URL",
+    "errorMessage": "infoLink is null or empty"
+  },
+  {
+    "schoolName": "立教池袋中学校",
+    "url": "https://ikebukuro.rikkyo.ac.jp/admissions/junior.html",
+    "ok": true,
+    "statusCode": 200,
+    "title": "中学校入試 | 立教池袋中学校・高等学校",
+    "errorType": null,
+    "errorMessage": null
+  },
+  {
+    "schoolName": "聖光学院中学校",
+    "url": "https://sites.google.com/seiko.ac.jp/briefing",
+    "ok": true,
+    "statusCode": 200,
+    "title": "中学入試・学校説明サイト",
+    "errorType": null,
+    "errorMessage": null
+  },
+  {
+    "schoolName": "芝国際中学校",
+    "url": "https://www.shiba-kokusai.ed.jp/dl_pamphlet/pdf/info_jhs2026.pdf",
+    "ok": true,
+    "statusCode": 200,
+    "title": null,
+    "errorType": null,
+    "errorMessage": null
+  },
+  {
+    "schoolName": "芝国際中学校",
+    "url": "https://www.shiba-kokusai.ed.jp/dl_pamphlet/pdf/info_jhs2026.pdf",
+    "ok": true,
+    "statusCode": 200,
+    "title": null,
+    "errorType": null,
+    "errorMessage": null
+  },
+  {
+    "schoolName": "芝浦工業大学附属中学高等学校",
+    "url": "https://www.fzk.shibaura-it.ac.jp/admission/returnee/junior-tokyo/",
+    "ok": true,
+    "statusCode": 200,
+    "title": "中学帰国生入試生徒募集概要（本校会場） | 帰国生入試TOP・帰国生入試サンプル問題 | 入試情報 | 芝浦工業大学附属中学高等学校",
+    "errorType": null,
+    "errorMessage": null
+  },
+  {
+    "schoolName": "芝浦工業大学附属中学高等学校",
+    "url": "https://www.fzk.shibaura-it.ac.jp/admission/junior/outline/",
+    "ok": true,
+    "statusCode": 200,
+    "title": "2027年度中学入試生徒募集概要 | 中学入試TOP・Web説明会・新入試サンプルページ | 入試情報 | 芝浦工業大学附属中学高等学校",
+    "errorType": null,
+    "errorMessage": null
+  },
+  {
+    "schoolName": "茗溪学園中学校",
+    "url": null,
+    "ok": false,
+    "statusCode": null,
+    "title": null,
+    "errorType": "MISSING_URL",
+    "errorMessage": "infoLink is null or empty"
+  },
+  {
+    "schoolName": "西大和学園中学校",
+    "url": "https://www.nishiyamato.ed.jp/admission/entrance_examination.html",
+    "ok": true,
+    "statusCode": 200,
+    "title": "入学試験について | 入学案内 | 西大和学園中学校・高等学校",
+    "errorType": null,
+    "errorMessage": null
+  },
+  {
+    "schoolName": "西武学園文理中学校",
+    "url": "https://www.bunri-s.ed.jp/junior/entrance/admission/",
+    "ok": true,
+    "statusCode": 200,
+    "title": "学校案内・生徒募集要項 | 西武学園文理中学・高等学校",
+    "errorType": null,
+    "errorMessage": null
+  },
+  {
+    "schoolName": "逗子開成中学校",
+    "url": "https://www.zushi-kaisei.ac.jp/exam/%E5%B8%B0%E5%9B%BD%E7%94%9F%E3%81%AE%E6%96%B9%E3%81%B8/",
+    "ok": true,
+    "statusCode": 200,
+    "title": "帰国生の方へ | 逗子開成中学校・高等学校",
+    "errorType": null,
+    "errorMessage": null
+  },
+  {
+    "schoolName": "郁文館中学校",
+    "url": "https://www.ikubunkan.ed.jp/exam/juniorhigh",
+    "ok": false,
+    "statusCode": 404,
+    "title": "404 Not Found｜郁文館夢学園",
+    "errorType": null,
+    "errorMessage": null
+  },
+  {
+    "schoolName": "郁文館中学校",
+    "url": "https://www.ikubunkan.ed.jp/exam/juniorhigh",
+    "ok": false,
+    "statusCode": 404,
+    "title": "404 Not Found｜郁文館夢学園",
+    "errorType": null,
+    "errorMessage": null
+  },
+  {
+    "schoolName": "都立立川国際中等教育学校",
+    "url": "https://www.metro.ed.jp/tachikawa-s/guide/guidance_foreigner.html",
+    "ok": true,
+    "statusCode": 200,
+    "title": "適性検査（帰国在京枠） ｜ 東京都立立川国際中等教育学校 | 東京都立学校",
+    "errorType": null,
+    "errorMessage": null
+  },
+  {
+    "schoolName": "金沢大学附属中学校",
+    "url": null,
+    "ok": false,
+    "statusCode": null,
+    "title": null,
+    "errorType": "MISSING_URL",
+    "errorMessage": "infoLink is null or empty"
+  },
+  {
+    "schoolName": "鎌倉女学院中学校",
+    "url": "https://www.kamajo.ac.jp/ent-req/",
+    "ok": true,
+    "statusCode": 200,
+    "title": "生徒募集要項 - 鎌倉女学院",
+    "errorType": null,
+    "errorMessage": null
+  },
+  {
+    "schoolName": "鎌倉女学院中学校",
+    "url": "https://www.kamajo.ac.jp/ent-req/",
+    "ok": true,
+    "statusCode": 200,
+    "title": "生徒募集要項 - 鎌倉女学院",
+    "errorType": null,
+    "errorMessage": null
+  },
+  {
+    "schoolName": "開智中学校",
+    "url": "https://ikkanbu.kaichigakuen.ed.jp/admission/",
+    "ok": true,
+    "statusCode": 200,
+    "title": "入試情報 | 開智中学・高等学校 - 学校法人開智学園",
+    "errorType": null,
+    "errorMessage": null
+  },
+  {
+    "schoolName": "開智所沢中等教育学校",
+    "url": "https://secondary.kts.ed.jp/topics/2026%E5%B9%B4%E5%BA%A6%E5%8B%9F%E9%9B%86%E8%A6%81%E9%A0%85/",
+    "ok": true,
+    "statusCode": 200,
+    "title": "2026年度募集要項公開 | 開智所沢中等教育学校 - 学校法人開智学園",
+    "errorType": null,
+    "errorMessage": null
+  },
+  {
+    "schoolName": "開智日本橋学園中学校",
+    "url": "https://kng.ed.jp/admission/returnee-entrance-examination/",
+    "ok": true,
+    "statusCode": 200,
+    "title": "帰国生入試 | 開智日本橋学園中学・高等学校 - 学校法人開智学園",
+    "errorType": null,
+    "errorMessage": null
+  },
+  {
+    "schoolName": "開智日本橋学園中学校",
+    "url": "https://kng.ed.jp/admission/entrance-examination/",
+    "ok": true,
+    "statusCode": 200,
+    "title": "一般入試 | 開智日本橋学園中学・高等学校 - 学校法人開智学園",
+    "errorType": null,
+    "errorMessage": null
+  },
+  {
+    "schoolName": "開智望中学校",
+    "url": "https://nozomi.kaichigakuen.ed.jp/secondary/admission/secondary-exam/",
+    "ok": true,
+    "statusCode": 200,
+    "title": "中等教育学校入試 | 開智望中等教育学校 - 学校法人開智学園",
+    "errorType": null,
+    "errorMessage": null
+  },
+  {
+    "schoolName": "関東学院中学校",
+    "url": "https://kantogakuin.ed.jp/wp/wp-content/uploads/2025/10/2026kikoku.pdf",
+    "ok": true,
+    "statusCode": 200,
+    "title": null,
+    "errorType": null,
+    "errorMessage": null
+  },
+  {
+    "schoolName": "関西学院千里国際中等部",
+    "url": "https://sis.kwansei.ac.jp/admissions/returnees-overseas",
+    "ok": true,
+    "statusCode": 200,
+    "title": "帰国生・海外生入試 | 千里国際中等部・高等部",
+    "errorType": null,
+    "errorMessage": null
+  },
+  {
+    "schoolName": "青山学院横浜英和中学校",
+    "url": "https://www.yokohama-eiwa.ac.jp/chukou/assets/pdf/examination/boshu.pdf",
+    "ok": true,
+    "statusCode": 200,
+    "title": null,
+    "errorType": null,
+    "errorMessage": null
+  },
+  {
+    "schoolName": "青稜中学校",
+    "url": "https://www.seiryo-js.ed.jp/requirements",
+    "ok": true,
+    "statusCode": 200,
+    "title": "募集要項 | 青稜中学校・高等学校",
+    "errorType": null,
+    "errorMessage": null
+  },
+  {
+    "schoolName": "順天中学校",
+    "url": "https://www.junten.ed.jp/admission/yoko/",
+    "ok": true,
+    "statusCode": 200,
+    "title": "生徒募集要項 | 北里大学附属順天中学校・高等学校",
+    "errorType": null,
+    "errorMessage": null
+  },
+  {
+    "schoolName": "順天中学校",
+    "url": "https://www.junten.ed.jp/news/41902/",
+    "ok": true,
+    "statusCode": 200,
+    "title": "帰国生入試事前相談のご案内【2027年度入試、2026－7年度編入試験】 | 北里大学附属順天中学校・高等学校",
+    "errorType": null,
+    "errorMessage": null
+  },
+  {
+    "schoolName": "頌栄女子学院中学校",
+    "url": "https://www.shoei.ed.jp/examination/returnees.html",
+    "ok": true,
+    "statusCode": 200,
+    "title": "受験情報 帰国生の方 | 受験生の方へ | 頌栄女子学院中学校・高等学校",
+    "errorType": null,
+    "errorMessage": null
+  },
+  {
+    "schoolName": "頌栄女子学院中学校",
+    "url": "https://www.shoei.ed.jp/examination/general.html",
+    "ok": true,
+    "statusCode": 200,
+    "title": "受験情報 一般生の方 | 受験生の方へ | 頌栄女子学院中学校・高等学校",
+    "errorType": null,
+    "errorMessage": null
+  },
+  {
+    "schoolName": "駒込中学校",
+    "url": "https://www.komagome.ed.jp/exam/junior/",
+    "ok": true,
+    "statusCode": 200,
+    "title": "駒込学園 駒込中学・高等学校 ‐私立・共学‐",
+    "errorType": null,
+    "errorMessage": null
+  },
+  {
+    "schoolName": "駒込中学校",
+    "url": "https://www.komagome.ed.jp/exam/junior/",
+    "ok": true,
+    "statusCode": 200,
+    "title": "駒込学園 駒込中学・高等学校 ‐私立・共学‐",
+    "errorType": null,
+    "errorMessage": null
+  },
+  {
+    "schoolName": "麗澤中学校",
+    "url": "https://www.hs.reitaku.jp/junior/application.html",
+    "ok": true,
+    "statusCode": 200,
+    "title": "募集要項 | 中学校 | 麗澤中学・高等学校（千葉県柏市の中高一貫・共学校）",
+    "errorType": null,
+    "errorMessage": null
+  }
+]
